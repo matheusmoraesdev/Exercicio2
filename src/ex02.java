@@ -1,5 +1,3 @@
-package lista02_02.src;
-
 import java.util.Scanner;
 
 public class ex02 {
